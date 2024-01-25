@@ -10,6 +10,7 @@
 
 #include <dirent.h>
 #include <string>
+#include <cstdint>
 
 #define _A_NORMAL         0x00         // Normal file
 #define _A_RDONLY         0x01         // Read-only file
